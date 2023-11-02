@@ -1,7 +1,12 @@
 *{
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  
+  font-family: 'Comfortaa', sans-serif;
+font-family: 'Playpen Sans', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Work Sans', sans-serif;
 }
 
 
@@ -11,7 +16,8 @@
 }
 .app{
   padding: 1.5rem;
-  background-color: rgb(50, 50, 103);
+  background-color:black;
+  
 }
 .search-nav{
   display: flex;
@@ -29,6 +35,11 @@
   outline: 0;
   margin-right: 0.1rem;
   border-radius: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  
+  
+  
   
 }
 .search-box form button{
@@ -36,5 +47,17 @@
   outline: 0;
   padding: 0.3rem;
   border-radius: 1rem;
+  background-color: rgb(80, 102, 227);
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+ 
   
 }
+
+
+
+
+
+
+
